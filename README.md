@@ -1,8 +1,6 @@
-# Graphs introduction 
-
+# Graphs Introduction
 - **Team**
- - pepe
-  - [Alejandro Sánchez Márquez]((https://github.com/Alesanmar))
+  - [Alejandro Sánchez Marquez](https://github.com/Alesanmar)
   - [Pablo Galán Acedo](https://github.com/pabgalace)
-- **Description:** Jupyter notebook for graphs introduction, developed for the subject MATI from Escuela Técnica Superior de Ingeniería Informática.
+- **Project description**: Jupyter notebook for graphs introduction, developed for the subject MATI from Escuela Técnica Superior de Ingeniería Informática.
 
